@@ -1,6 +1,8 @@
 # Osamloc Project
 
 - 국내 대표 차(Tea) 브랜드 '[오설록](https://www.osulloc.com/kr/ko)'을 모티브로 한 프로젝트입니다.
+- 사이트 선정 이유
+  -  처음 프로젝트인 만큼 그동안 배운 지식을 활용하여 e-커머스에 crud 기반으로 직접 기능들을 구현해보고 적용해볼 수 있는 사이트를 선정
 
 ![오설록](https://user-images.githubusercontent.com/108418225/190359024-709b2df0-3249-4708-8e2f-7d6bcb38c07a.png)
 
@@ -38,6 +40,9 @@
 
 
 ### 3-2. 프론트엔드 구현 기능
+
+>프론트엔드  
+  
 - 이동호  
   - [장바구니] UI
   - [장바구니] 리스트 CRUD 기능 구현 
@@ -77,6 +82,19 @@
   - [로그인 페이지] input 클릭시 조건문 알람
   - [로그인 페이지] input 클릭시 테두리 색변화 
   - footer ui&기능 
+  
+>백엔드
+
+- 김교은  
+  - 카테고리 API  
+  - 상품 리스트 API  
+  - 상품 정렬 API  
+  - 장바구니 / 결제 API  
+
+- 박지은
+  - 회원가입 / 로그인 API 
+  - 상품 상세 페이지 API   
+  - 리뷰 API
 
   
 ## 4. 내가 구현한 페이지
@@ -108,4 +126,9 @@
 :paperclip: [회원가입 / 로그인 / 상품 상세 페이지 / 리뷰 API](https://documenter.getpostman.com/view/22723173/VUxVrQLd)  
 :paperclip: [카테고리 / 상품 필터, 정렬 / 상품 리스트 API](https://documenter.getpostman.com/view/22723465/VUxXKNsa)  
 :paperclip: [장바구니 / 결제 API](https://documenter.getpostman.com/view/22723465/VVBQX98b)  
+
+## Reference
+
+- 이 프로젝트는 [오설록](https://www.osulloc.com/kr/ko) 사이트를 참조하여 학습목적으로 만들었습니다.
+- 실무수준의 프로젝트이지만 학습용으로 만들었기 때문에 이 코드를 활용하여 이득을 취하거나 무단 배포할 경우 법적으로 문제될 수 있습니다.
 
