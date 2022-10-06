@@ -1,0 +1,34 @@
+{
+    "RecordData" : [
+        {
+            "id": 1,
+            "imgUrl" : "./image/main/record_01.jpeg",
+            "title": "차가운 것으로 따뜻한 것을 만들다",
+            "subTitle" :"철제 가구 디자이너 양윤선의 티라이프"
+        },
+        {
+            "id": 2,
+            "imgUrl" : "./image/main/record_02.jpeg",
+            "title": "주변의 모든 것이 예술이 되는 과정",
+            "subTitle" :"테이핑 아티스트 박건우의 티라이프"
+        },
+        {
+            "id": 3,
+            "imgUrl" : "./image/main/record_03.jpeg",
+            "title": "잘 달리는 것보다 즐겁게 달리는 방법",
+            "subTitle" :"러닝 트레이너 임소영의 티라이프"
+        },
+        {
+            "id": 4,
+            "imgUrl" : "./image/main/record_04.jpeg",
+            "title": "일과 삶 사이, 자연이라는 쉼표",
+            "subTitle" :"오지 캠퍼 강서구의 티라이프"
+        },
+        {
+            "id": 5,
+            "imgUrl" : "./image/main/record_05.jpeg",
+            "title": "온전하게 나만을 위한 채식이야기",
+            "subTitle" :"채식 요리 연구가 신주하의 티라이프"
+        }
+    ]
+}
