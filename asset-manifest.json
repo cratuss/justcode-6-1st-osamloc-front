@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/justcode-6-1st-osamloc-front/static/css/main.0fc5cec6.css",
-    "main.js": "/justcode-6-1st-osamloc-front/static/js/main.b469a819.js",
+    "main.js": "/justcode-6-1st-osamloc-front/static/js/main.d882123e.js",
     "index.html": "/justcode-6-1st-osamloc-front/index.html",
     "main.0fc5cec6.css.map": "/justcode-6-1st-osamloc-front/static/css/main.0fc5cec6.css.map",
-    "main.b469a819.js.map": "/justcode-6-1st-osamloc-front/static/js/main.b469a819.js.map"
+    "main.d882123e.js.map": "/justcode-6-1st-osamloc-front/static/js/main.d882123e.js.map"
   },
   "entrypoints": [
     "static/css/main.0fc5cec6.css",
-    "static/js/main.b469a819.js"
+    "static/js/main.d882123e.js"
   ]
 }
